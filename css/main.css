@@ -1,0 +1,74 @@
+body {
+  font-family: 'Copse', serif;
+}
+
+.perso_title,
+h2 {
+  font-family: 'Fredoka One', cursive;
+}
+
+hr {
+  border-color: #44586e;
+  margin: 2% 20%;
+}
+
+.perso_logo {
+  width: 100px;
+}
+
+.pink_color {
+  color: #FF00FF !important;
+}
+
+.orange_color {
+  color: #f7b35b !important;
+}
+
+.green_color {
+  color: #34C924 !important;
+}
+
+.red_color {
+  color: #e64e4e !important;
+}
+
+.blue_color {
+  color: #40E0D0 !important;
+}
+
+.perso_bg_green {
+  background-color: rgba(175, 233, 175, 0.827) !important;
+}
+
+.perso_bg_orange {
+  background-color: #f8cf99 !important;
+}
+
+.perso_bg_pink {
+  background-color: #e6c4e6 !important;
+}
+
+.navbar {
+  font-size: 18px;
+}
+
+.perso_min_size {
+  min-height: 600px;
+}
+
+.carousel-item img {
+  height: 250px;
+}
+
+.size_12 {
+  font-size: 12px;
+}
+
+.framboise-img {
+  height: 250px;
+}
+
+.association_container h2 {
+  padding-top: 20px;
+}
+/*# sourceMappingURL=main.css.map */
